@@ -1,6 +1,6 @@
 
 My groupmembers are:
-- XXXX
+- Hayden West
 - XXXX
 - XXXX
 - Raymond Truong
