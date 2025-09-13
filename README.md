@@ -11,4 +11,4 @@ My groupmembers are:
 ------------------ Fill in some information about your project under this ------------------
 
 
-Were doing a Chronic Disease Management Platform, we will make an app to track and manage LUPUS
+Our project is a Chronic Disease Management platform focused on lupus. The app helps patients track and compile their biometric data, giving both them and their doctors clearer insights to better manage/treat symptoms.
